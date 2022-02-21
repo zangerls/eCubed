@@ -1,0 +1,94 @@
+/* THIS STYLESHEET IS USED ON EVERY PAGE */
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.heading {
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+
+.bg-dark {
+    background-color: transparent !important;
+}
+
+button {
+    font-family: 'Raleway', sans-serif;
+}
+
+.btn {
+    border-radius: 50px;
+    padding: 5px 40px;
+}
+
+/* NAVBAR */
+.nav-link {
+    color: #fff!important;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: transparent !important;
+}
+
+.nav-link:hover {
+    color: rgb(53, 204, 187)!important;
+}
+
+.navbar-nav {
+    background-color: transparent!important;
+}
+
+/* FOOTER */
+.footer-li {
+    font-size: 16px !important;
+    margin-bottom: 20px;
+}
+
+.footer-li a:hover {
+    transition: ease-in-out 0.2s;
+    color: rgb(53, 204, 187)!important;
+}
+
+.footer-heading {
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px !important;
+}
+
+.bg-primary {
+    background-color: #0a0a0a !important;
+}
+
+.bg-secondary {
+    background-color: #dadada !important;
+}
+
+.list-unstyled {
+    margin-top: 0rem;
+}
+
+/* TABLET OR BIGGER */
+@media (min-width: 992px) {
+   
+    .navbar-nav {
+       position: absolute;
+       top: 100%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+       padding-top: 50px;
+   }
+
+   .nav-link {
+       padding: 0 30px!important;
+   }
+}

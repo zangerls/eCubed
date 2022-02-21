@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+.level {
+    background: url("../images/staircase.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.temperature {
+    background: url("../images/skyscraper.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.distance {
+    background: url("../images/building.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.location {
+    background: url("../images/vienna.jpg") no-repeat top;
+    background-size: cover;
+}
+
+.subHeading {
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.heading {
+    padding: 0 0 0px 0;
+}
+
+.btn {
+    position: absolute;
+    left: 50%;
+    top: 58%;
+    transform: translate(-50%, -50%);
+}
+
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+    background: #fff!important;
+}
+
+#assetText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}

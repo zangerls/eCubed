@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+.topImage {
+    background: url("../images/library-dark.png") no-repeat center;
+    background-size: cover;
+    height: 75vh;
+    width: 100%;
+}
+
+.mainHeading {
+    font-size: 5rem;
+    padding-top: 35vh;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.getInTouch {
+    background-color: #000;
+    padding-bottom: 10vh;
+    width: 100%;
+}
+
+.touchHeading {
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 60px;
+    padding: 0;
+}
+
+li {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.25rem;
+    margin-bottom: 40px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.canWeHelp {
+    background-color: #fff;
+    margin-bottom: 5vh;
+    width: 100%;
+}
+
+
+/* ONLY AFFECTS MOBILE VIEWPORT */
+@media (max-width: 767.98px) {
+    
+    .centerOnMd {
+        text-align: center;
+    }
+
+    .mainHeading {
+        font-size: 3.5rem;
+    }
+}
+
+/* ONLY AFFECTS VIEWPORTS GREATER THAN TABLETS */
+@media (min-width: 992px) {
+
+    .mainHeading {
+        font-size: 8.5rem;
+        padding-top: 55vh;
+        text-transform: uppercase;
+        text-align: left;
+    }
+}
