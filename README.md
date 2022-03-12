@@ -11,7 +11,7 @@ Viele Abschnitte des Projektablaufs und der Entwicklung werden hier beschrieben.
 3. [Konzept](#3---konzept)
 4. [UX Entwicklung](#4---ux-entwicklung)
 5. [Software](#5---software)
-6. [Letzte Worte](#6---letzte-worte)
+6. [Letzte Worte](#6-letzte-worte)
 
 ## 1 - Die Hardware
 
