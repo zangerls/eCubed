@@ -6,7 +6,7 @@ Viele Abschnitte des Projektablaufs und der Entwicklung werden hier beschrieben.
 
 ### Übersicht
 
-1. [Hardware](## 1-die-hardware)
+1. [Hardware](##1-die-hardware)
 2. [Beschreibung](https://github.com/zangerls/eCubed/edit/main/README.md#2---beschreibung)
 3. [Konzept](https://github.com/zangerls/eCubed/edit/main/README.md#3---konzept)
 4. [UX Entwicklung](https://github.com/zangerls/eCubed/edit/main/README.md#4---ux-entwicklung)
