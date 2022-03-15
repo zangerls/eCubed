@@ -48,9 +48,7 @@ Der Micropilot FWR30 (2) misst in stündlichen Intervallen die Daten der Prozess
 
 ## 4 - UX Entwicklung
 
-Die Nutzererfahrung ist ein sehr komplexes Thema, weil sie bei der Verwendung eines digitalen Produkts, jegliche Bedürfnisse eines Nutzers deckt. Unser Ziel ist es, die Erfahrung des Nutzers zu verbessern und ihm so schnell wie möglich das Erreichen des gewünschten Ziels zu gewährleisten. Nutzer sind meistens faul und verlieren das Interesse, wenn sie ihren Weg nicht finden, deswegen kümmern wir uns darum, dass unser Produkt gut zu benutzen ist.
-
-Der Ablauf unserer Entwicklung der User Experience (Nutzungserlebnis) wurde aufgeteilt in vier Hauptkategorien. Auch diese wurden ebenfalls unterteilt, um sicherzustellen, alle Punkte zu behandeln und die UX so angenehm und intuitiv für den Nutzer zu erzeugen, da dies einer der wichtigsten Faktoren für das Projekt war.
+Der Ablauf unserer Entwicklung der User Experience wurde aufgeteilt in vier Hauptkategorien. Auch diese wurden ebenfalls unterteilt, um sicherzustellen, alle Punkte zu behandeln und die UX so angenehm und intuitiv für den Nutzer zu erzeugen, da dies einer der wichtigsten Faktoren für das Projekt war.
 
 Die Abschnittsunterteilung der User Experience Entwicklung war:
 * Forschung
@@ -58,7 +56,7 @@ Die Abschnittsunterteilung der User Experience Entwicklung war:
 * Implementierung
 * Berichterstattung
 
-Einige Prototypen des User Interfaces können Sie in der [Adobe XD Datei](https://github.com/zangerls/eCubed/blob/main/Dokumentation/eCubed%20Mockups.xd) widerfinden.
+Einige Prototypen des User Interfaces können Sie in der [Adobe XD Datei](https://github.com/zangerls/eCubed/blob/main/Dokumentation/eCubed%20Mockups.xd) wiederfinden.
 
 ## 5 - Software
 
